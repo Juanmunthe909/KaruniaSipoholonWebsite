@@ -1,0 +1,63 @@
+.payment-form {
+    max-width: 400px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.payment-form h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.payment-option {
+    margin-bottom: 10px;
+}
+
+.payment-option label {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.upload {
+    margin-top: 20px;
+}
+
+.upload h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.next-step {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/* Gaya CSS untuk tampilan hasil */
+.payment-result {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.payment-result h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.payment-result p {
+    margin-bottom: 10px;
+}
